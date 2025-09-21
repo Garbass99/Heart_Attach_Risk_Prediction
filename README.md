@@ -4,7 +4,7 @@
 
 
 # Clinical Variables & Measurement Instruments for Heart Attack Prediction
-link to Model deploy to streamlit: https://garbass99-heart-attach-risk-prediction-app-sc7q4i.streamlit.app/
+link to Model deployed to streamlit: https://garbass99-heart-attach-risk-prediction-app-sc7q4i.streamlit.app/
 
 Variable (Code Name) | Clinical Meaning | How It's Measured (Clinical Instruments & Tests) 
 1.  Age | Verified via patient history (ID, verbal confirmation).
