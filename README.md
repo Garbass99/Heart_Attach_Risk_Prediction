@@ -1,10 +1,10 @@
 # Heart_Attach_Risk_Prediction
-This Application is designed to predict the risk of developing heart attack among individuals and provide further guidiance
+#This Application is designed to predict the risk of developing heart attack among individuals and provide further guidiance
 <img width="1808" height="785" alt="image" src="https://github.com/user-attachments/assets/c8d37646-24b8-4fc3-bb93-57da50e6d2ec" />
 Clinical Variables & Measurement Instruments for Heart Attack Prediction
 link to Model deploy to streamlit: https://garbass99-heart-attach-risk-prediction-app-sc7q4i.streamlit.app/
 
-Variable (Code Name) | Clinical Meaning | How It's Measured (Clinical Instruments & Tests) 
+# Variable (Code Name) | Clinical Meaning | How It's Measured (Clinical Instruments & Tests) 
 1.  Age | Verified via patient history (ID, verbal confirmation).
 2. sex` | Biological Sex | Verified via patient history.
 3. `cp` (Chest Pain Type) | Type of Chest Pain | Assessed through patient history and interview by a physician. The description of the pain (location, quality, radiation, duration, triggers) is crucial for classification. |
